@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=circxit" alt="circxit" /></a> </p>
 
-- 🔭 I’m currently working on **a Flashcard website**
+- 🔭 I’m currently working on **a text-based adventure game**
 
 - 🌱 I’m currently learning **React, Python**
 
