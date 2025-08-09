@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **nothing yet**
 
-- 👨‍💻 All of my projects are available on [my GitHub](my GitHub)
+- 👨‍💻 All of my projects are available on [my GitHub](github.com/circxit)
 
 - 💬 Ask me about **React, Python, Websites, Discord bots, Node.js**
 
